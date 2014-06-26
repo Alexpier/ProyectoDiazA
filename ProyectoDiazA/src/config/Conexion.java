@@ -18,7 +18,7 @@ import javax.swing.JOptionPane;
 public class Conexion {
     private static Connection conex = null;
     
-    private static final String  url ="jdbc:mysql://localhost/bd_visitas";
+    private static final String  url ="jdbc:mysql://localhost/bd";
     private static final String  usuario ="root";
     private static final String  clave ="root";
     
